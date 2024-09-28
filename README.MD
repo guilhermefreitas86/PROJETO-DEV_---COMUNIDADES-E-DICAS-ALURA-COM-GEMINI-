@@ -9,9 +9,9 @@ Este projeto consiste em uma página web que apresenta informações sobre comun
 
 1. HTML Básico
 
-O documento começa com a declaração do tipo de documento (<!DOCTYPE html>) e é configurado para o idioma português do Brasil (lang="pt-br").
+O documento começa com a declaração do tipo de documento (DOCTYPE html) e é configurado para o idioma português do Brasil (lang="pt-br").
 
-O <head> contém meta tags para charset e viewport, além do título da página e estilos CSS.
+O head contém meta tags para charset e viewport, além do título da página e estilos CSS.
 
 2. Estilos CSS
 
@@ -23,10 +23,10 @@ Utilização de Flexbox para a disposição das imagens de comunidades e dicas, 
 
 3. Conteúdo Principal
 
-Um <header> com a logo do projeto.
+Um header com a logo do projeto.
 
-Um <main> que contém uma seção com duas imagens que redirecionam para páginas de comunidades e dicas.
-Cada imagem está dentro de um link (<a>), permitindo navegação entre as páginas.
+Um main que contém uma seção com duas imagens que redirecionam para páginas de comunidades e dicas.
+Cada imagem está dentro de um link (a), permitindo navegação entre as páginas.
 
 4. Rodapé
 
@@ -44,7 +44,7 @@ Certifique-se de que as imagens e arquivos de páginas referenciados (como comun
 
 Para alterar a logo, substitua o arquivo LOGO18.png.
 
-Para atualizar as imagens dos links, substitua COMUNIDADES444.png e DICAS444.png por suas respectivas imagens.
+Para atualizar as imagens dos links, substitua COMUNIDADES.png e DICAS.png por suas respectivas imagens.
 
 Modifique as informações no rodapé conforme necessário.
 
@@ -60,9 +60,9 @@ Este projeto consiste em uma página web dedicada a fornecer dicas úteis para d
 
 1. HTML Básico
 
-O documento inicia com a declaração do tipo de documento (<!DOCTYPE html>) e configura o idioma para português do Brasil (lang="pt-br").
+O documento inicia com a declaração do tipo de documento (DOCTYPE html) e configura o idioma para português do Brasil (lang="pt-br").
 
-O <head> contém meta tags para charset e viewport, além do título da página e os estilos CSS.
+O head contém meta tags para charset e viewport, além do título da página e os estilos CSS.
 
 2. Estilos CSS
 
@@ -74,7 +74,7 @@ O botão "Voltar" é estilizado com um fundo cinza e muda de cor ao passar o mou
 
 3. Conteúdo Principal
 
-Um <header> que contém a logo do projeto, o título da seção e um link para voltar à página anterior.
+Um header que contém a logo do projeto, o título da seção e um link para voltar à página anterior.
 
 A seção principal é composta por uma lista de dicas, cada uma apresentada em um bloco que contém uma imagem e uma breve descrição.
 
@@ -108,9 +108,9 @@ Este projeto consiste em uma página web dedicada a listar e apresentar comunida
 
 1. HTML Básico
 
-O documento inicia com a declaração do tipo de documento (<!DOCTYPE html>) e configura o idioma para português do Brasil (lang="pt-br").
+O documento inicia com a declaração do tipo de documento (DOCTYPE html) e configura o idioma para português do Brasil (lang="pt-br").
 
-O <head> inclui meta tags para charset e viewport, além do título da página e os estilos CSS.
+O head inclui meta tags para charset e viewport, além do título da página e os estilos CSS.
 
 2. Estilos CSS
 
@@ -122,7 +122,7 @@ O botão "Voltar" é estilizado em cinza e muda de cor ao passar o mouse.
 
 3. Conteúdo Principal
 
-O <header> contém a logo do projeto, o título da seção e um link para voltar à página anterior.
+O header contém a logo do projeto, o título da seção e um link para voltar à página anterior.
 
 A lista de comunidades é apresentada em blocos que contêm uma imagem, um título, uma breve descrição e um link para mais informações.
 
@@ -190,7 +190,7 @@ O rodapé é fixo na parte inferior da página, com cor de fundo preta e texto b
 
 1. Integrar o CSS
 
-Adicione este código CSS ao seu arquivo de estilo ou diretamente em uma tag <style> no <head> da sua página HTML.
+Adicione este código CSS ao seu arquivo de estilo ou diretamente em uma tag style no head da sua página HTML.
 
 2. Estruturar o HTML
 
