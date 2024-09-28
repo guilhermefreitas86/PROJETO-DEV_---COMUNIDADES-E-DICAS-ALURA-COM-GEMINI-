@@ -38,7 +38,7 @@ Informações de direitos autorais e um e-mail fictício para contato.
 
 Abra o arquivo HTML em um navegador web para visualizar a página.
 
-Certifique-se de que as imagens e arquivos de páginas referenciados (como comunidades.html e dicas.html) estejam no mesmo diretório.
+Certifique de que as imagens e arquivos de páginas referenciados (como comunidades.html e dicas.html) estejam no mesmo diretório.
 
 2. Edição
 
